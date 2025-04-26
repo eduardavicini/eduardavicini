@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Eduarda 👋
 
-<!--
-**eduardavicini/eduardavicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**. Apaixonada por **tecnologia**, **programação** e **dados**, estou focada em aprender **Python**, **SQL** e **Power BI**.
 
-Here are some ideas to get you started:
+## 🌱 Aprendendo:
+- **Python**, **HTML** e **CSS** para desenvolvimento web
+- **SQL** e **Power BI** para análise de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Trabalhando em:
+- Projetos pequenos para praticar **codificação** e **solução de problemas**
+- Aperfeiçoamento de **visualizações** e **modelagem de dados** no **Power BI**
+
+## 📫 Como me encontrar:
+- LinkedIn: [eduardavicini](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
+
+## ⚡ Curiosidade:
+- Estou sempre em busca de aprender algo novo e adoro desafios de código!
+
+---
+
+Sinta-se à vontade para conferir meus repositórios e contribuir. Vamos programar juntos! 🚀
+
