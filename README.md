@@ -7,10 +7,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e esto
 - Aperfeiçoando minhas habilidades em **Python** e **SQL** para automação e análise de grandes volumes de dados.
 
 ## 📫 Como entrar em contato:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
 
-[![Email](https://img.shields.io/badge/Email-eduardavicinii@gmail.com-brightgreen)
-
+[![Email](https://img.shields.io/badge/Email-eduardavicinii@gmail.com-brightgreen)](mailto:eduardavicinii@gmail.com)
 
 ---
 
