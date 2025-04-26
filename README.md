@@ -1,22 +1,22 @@
-# Olá, eu sou a Eduarda 👋
+# Olá, sou a Eduarda! 👋
 
-Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**. Apaixonada por **tecnologia**, **programação** e **dados**, estou focada em aprender **Python**, **SQL** e **Power BI**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e estou constantemente evoluindo no universo da **tecnologia** e **programação**. Tenho um forte interesse em **análise de dados**, **desenvolvimento de software** e **visualização de dados**, com o objetivo de aplicar minhas habilidades práticas em **Python**, **SQL** e **Power BI** para resolver desafios reais.
 
-## 🌱 Aprendendo:
-- **Python**, **HTML** e **CSS** para desenvolvimento web
-- **SQL** e **Power BI** para análise de dados
+## 🚀 Projetos e Aprendizado:
+- Desenvolvendo projetos práticos com **Power BI** para visualização e análise de dados.
+- Aperfeiçoando minhas habilidades em **Python** e **SQL** para automação e análise de grandes volumes de dados.
 
-## 🚀 Trabalhando em:
-- Projetos pequenos para praticar **codificação** e **solução de problemas**
-- Aperfeiçoamento de **visualizações** e **modelagem de dados** no **Power BI**
+## 📫 Como entrar em contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
+- Email: [eduarda@example.com](eduardavicinii@gmail.com)
 
-## 📫 Como me encontrar:
-- LinkedIn: [eduardavicini](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
-
-## ⚡ Curiosidade:
-- Estou sempre em busca de aprender algo novo e adoro desafios de código!
+## 🎯 Objetivos Profissionais:
+- Aplicar minhas habilidades técnicas em **desenvolvimento de software** e **análise de dados** para impactar positivamente as empresas.
+- Contribuir para projetos desafiadores que envolvam **tecnologias emergentes** e **soluções inovadoras**.
+- Continuar aprendendo e evoluindo como profissional da área de **tecnologia**.
 
 ---
 
-Sinta-se à vontade para conferir meus repositórios e contribuir. Vamos programar juntos! 🚀
+Estou aberta a novas oportunidades para colaborar com equipes inovadoras e contribuir com soluções criativas. Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutirmos possíveis colaborações. 🚀
+
 
