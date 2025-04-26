@@ -9,14 +9,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e esto
 ## 📫 Como entrar em contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
 
-[![Email](https://img.shields.io/badge/Email-eduardavicinii@gmail.com-brightgreen)](mailto:eduardavicinii@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eduardavicinii@gmail.com-brightgreen)
 
-## 🎯 Objetivos Profissionais:
-- Aplicar minhas habilidades técnicas em **desenvolvimento de software** e **análise de dados** para impactar positivamente as empresas.
-- Contribuir para projetos desafiadores que envolvam **tecnologias emergentes** e **soluções inovadoras**.
-- Continuar aprendendo e evoluindo como profissional da área de **tecnologia**.
 
 ---
-
 
 
