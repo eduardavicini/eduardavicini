@@ -1,13 +1,17 @@
-# Olá, sou a Eduarda! 👋🏻
+# Oii, eu sou a Eduarda! ✨️
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e estou constantemente evoluindo no universo da **tecnologia** e **programação**. 
+Seja muito bem-vindo(a) ao meu GitHub!
 
-## 📫 Como entrar em contato:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e entusiasta da tecnologia, com foco especial em **Análise de Dados**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
+Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades e estou em constante evolução para entregar soluções inteligentes e inovadoras.
 
-[![Email](https://img.shields.io/badge/Email-eduardavicinii@gmail.com-brightgreen)](mailto:eduardavicinii@gmail.com)
+## Principais habilidades
+- **Análise de Dados:** Power BI | SQL | Python
+- **Desenvolvimento Web:** HTML | CSS
+- **Ferramentas:** GitHub | Pacote Office
 
----
-
+## Vamos nos conectar?
+- [LinkedIn](www.linkedin.com/eduarda-dos-santos-vicini)
+- [E-mail](eduardavicinii@gmail.com)
 
