@@ -15,6 +15,6 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades
 - **Ferramentas:** GitHub | Pacote Office
 
 ## Vamos nos conectar?
-- [LinkedIn](www.linkedin.com/eduarda-dos-santos-vicini)
+- [LinkedIn](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
 - [E-mail](eduardavicinii@gmail.com)
 
