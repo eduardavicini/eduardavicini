@@ -5,14 +5,13 @@ src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/
 
 Seja muito bem-vindo(a) ao meu GitHub!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e entusiasta da tecnologia, com foco especial em **Análise de Dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e entusiasta da tecnologia.
 
 Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades e estou em constante evolução para entregar soluções inteligentes e inovadoras.
 
 ## Principais habilidades
-- **Análise de Dados:** Power BI | SQL | Python
-- **Desenvolvimento Web:** HTML | CSS
-- **Ferramentas:** GitHub | Pacote Office
+- SQL | Python | HTML | CSS
+- **Ferramentas:** GitHub | Pacote Office | VSCode
 
 ## Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
