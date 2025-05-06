@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/
 
 Seja muito bem-vindo(a) ao meu GitHub!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e entusiasta da tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR** e entusiasta da tecnologia, com foco em desenvolvimento Back-end.
 
 Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades e estou em constante evolução para entregar soluções inteligentes e inovadoras.
 
