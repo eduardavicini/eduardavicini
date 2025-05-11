@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia e estou trilhando meu caminho na área de desenvol
 - 🌱 Em constante evolução e aprendizado
 - 🎯 Focada em transformar ideias em soluções inteligentes
 
-## 🛠️ Tecnologias que estou aprendendo/uso
+## 🛠️ Tecnologias que uso
 
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/-Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white"/>
