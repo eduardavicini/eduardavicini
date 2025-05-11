@@ -1,5 +1,6 @@
 <img
-src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+src="https://img.freepik.com/premium-vector/web-development-application-design-illustration-pink-background_13674132.jpg" alt="ilustração de desenvolvimento web em fundo rosa" width="400px" align="right">
+
 
 
 # Oii, eu sou a Eduarda! ✨️
