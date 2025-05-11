@@ -1,5 +1,5 @@
 <img
-src="https://img.freepik.com/vetores-premium/ilustracao-de-desenvolvimento-de-aplicativos-rosa-elementos-detalhados-em-fundo-branco_29553782.jpg" alt="ilustração de uma desenvolvedora em tons de rosa" width="400px" align="right">
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 # Oii, eu sou a Eduarda! ✨️
