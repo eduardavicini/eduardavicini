@@ -1,8 +1,3 @@
-<img
-src="https://img.freepik.com/premium-vector/web-development-application-design-illustration-pink-background_13674132.jpg" alt="ilustração de desenvolvimento web em fundo rosa" width="400px" align="right">
-
-
-
 # Oii, eu sou a Eduarda! ✨️
 
 Seja muito bem-vindo(a) ao meu GitHub!
