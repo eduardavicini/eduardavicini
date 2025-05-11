@@ -19,10 +19,6 @@ Sou apaixonada por tecnologia e estou trilhando meu caminho na área de desenvol
   <img src="https://img.shields.io/badge/-VSCode-DB7093?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats
-
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardavicinii&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117)
-
 ## 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
