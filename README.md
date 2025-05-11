@@ -1,3 +1,5 @@
+<img src="https://img.freepik.com/premium-photo/software-developer-concept-coding-language-development-pink-background-minimal-cartoon-sytle-3d-render-illustration_25034135.jpg" alt="Dev em fundo rosa" width="350px" align="right" />
+
 # Oii, eu sou a Eduarda! ✨️
 
 Seja muito bem-vindo(a) ao meu GitHub!
