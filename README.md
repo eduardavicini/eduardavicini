@@ -3,7 +3,7 @@
 # Oiiieee, seja bem-vindo(a) ao meu GitHub! 🌸💻
 
 Me chamo **Eduarda**, tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**.  
-Sou apaixonada por tecnologia e estou trilhando meu caminho na área de desenvolvimento **Back-end**, com muito estudo, prática e vontade de crescer!
+Sou apaixonada por tecnologia e estou trilhando meu caminho na área de desenvolvimento Web, com muito estudo, prática e vontade de crescer!
 
 ## 🛠️ Tecnologias que uso
 
