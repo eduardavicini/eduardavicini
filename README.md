@@ -1,47 +1,41 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="220" style="border-radius: 15px;" />
-</p>
+# 🔗 Oiii eu sou a Eduarda Vicini, apaixonada por tecnologia e desenvolvimento web!
 
-<h1 align="center" style="font-weight: 700; color: #D6336C;">
-  Olá, eu sou a <span style="color:#FF6F91;">Eduarda</span> 👩‍💻
-</h1>
+Me chamo Eduarda, tenho 25 anos e estudo **Análise e Desenvolvimento de Sistemas na PUC-PR**.  
+Aqui você vai encontrar projetos, estudos e muito código feito com carinho 💖
 
-<p align="center" style="font-size: 18px; color: #6B7280; max-width: 600px; margin: 0 auto;">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>PUC-PR</strong>, apaixonada por tecnologia e focada em desenvolvimento web.  
-  Sempre buscando crescer com estudo, prática e criatividade.
+---
+
+### Tecnologias que uso
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ---
 
-<h2 align="center" style="color: #D6336C;">🛠 Tecnologias que uso</h2>
+### Me encontre nas redes sociais
 
-<p align="center" style="margin-bottom: 40px;">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-<h2 align="center" style="color: #D6336C;">🌐 Vamos nos conectar?</h2>
-
-<p align="center" style="margin-bottom: 40px;">
-  <a href="https://www.linkedin.com/in/eduardavicini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p>
+  <a href="https://www.youtube.com/channel/SEU_CANAL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv/SEU_TWITCH" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+  <a href="https://discord.gg/SEU_DISCORD" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardavicini" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-<h2 align="center" style="color: #D6336C;">📈 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardavicini&style=flat-square&color=FF6F91" alt="Visualizações do Perfil" />
-</p>
-
-<p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardavicini&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
