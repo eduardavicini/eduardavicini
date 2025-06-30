@@ -1,5 +1,4 @@
-# 🔗 Oiii, eu sou a Eduarda Vicini, apaixonada por tecnologia e desenvolvimento web!
----
+## 🔗 Oiii, eu sou a Eduarda Vicini, apaixonada por tecnologia e desenvolvimento web!
 
 Estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**, apaixonada por tecnologia, aprendizado contínuo e tudo que envolve desenvolvimento de software.
 
