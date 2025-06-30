@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="250" />
 </p>
 
-# Olá, eu sou a **Eduarda** 🌸💻
+# Oii, eu sou a Eduarda! ✨ 
 
 **Estudante de Análise e Desenvolvimento de Sistemas na PUC-PR**, focada em **Desenvolvimento Web**.  
 Apaixonada por tecnologia, estou sempre aprendendo e aprimorando minhas habilidades para crescer na área.
