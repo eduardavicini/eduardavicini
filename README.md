@@ -1,15 +1,15 @@
-<img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="200" align="right" />
+<img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="180" align="right" />
 
-# Oi, seja bem-vindo(a) ao meu GitHub! 💻
+# ✨ Oiê! Seja muito bem-vindo(a) ao meu GitHub 💻🌸
 
 Me chamo **Eduarda**, tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**.  
-Sou apaixonada por tecnologia e estou construindo minha trajetória na área de **Desenvolvimento Web**, sempre buscando aprender, praticar e evoluir.
+Sou apaixonada por tecnologia e estou construindo minha trajetória na área de **Desenvolvimento Web**, com muito estudo, prática e vontade de crescer! 🚀
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 💻 Tecnologias que uso no dia a dia
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,20 +19,35 @@ Sou apaixonada por tecnologia e estou construindo minha trajetória na área de 
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardavicini)
-
----
-
-## 👀 Visitantes no perfil
-
-![Visualizações de Perfil](https://komarev.com/ghpvc/?username=eduardavicini&style=flat-square&color=ff69b4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardavicini" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou trocar uma ideia!  
-Vamos crescer juntos nessa jornada tech! 🚀✨
+## 📈 Visualizações no perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardavicini&style=for-the-badge&color=FF69B4" alt="profile views" />
+</p>
+
+---
+
+### 💬 Sobre mim
+
+- 🎓 Estudante de ADS pela PUC-PR  
+- 💼 Buscando oportunidades como Dev Web  
+- 🌱 Atualmente aprendendo mais sobre **React.js** e **APIs**  
+- ✨ Acredito que com dedicação e carinho a gente chega longe!  
+
+---
+
+> _"Grandes coisas nunca vêm da zona de conforto."_ ✨  
+> _Obrigada por visitar meu perfil!_ 💖
 
 
 
