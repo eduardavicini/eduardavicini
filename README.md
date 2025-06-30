@@ -1,28 +1,26 @@
 <img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="200" align="right" />
 
-# Oiiieee, seja bem-vindo(a) ao meu GitHub! 🌸💻
+# Oi, seja bem-vindo(a) ao meu GitHub! 🌸💻
 
 Me chamo **Eduarda**, tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**.  
-Sou apaixonada por tecnologia e estou trilhando meu caminho na área de desenvolvimento Web, com muito estudo, prática e vontade de crescer!
-
-## 🛠️ Tecnologias que uso
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VSCode-DB7093?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
-
-
-## 🌐 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-dos-santos-vicini/)
-[![Email](https://img.shields.io/badge/-Gmail-FFC0CB?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardavicinii@gmail.com)
+Sou apaixonada por tecnologia e estou construindo minha trajetória na área de **Desenvolvimento Web**, sempre buscando aprender, praticar e evoluir.
 
 ---
 
-✨ *Obrigada por passar por aqui. Sinta-se à vontade para explorar meus projetos!*
+## 🚀 Tecnologias que utilizo
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/HTML5-F28AB2?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FD7CFC?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-DB7093?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+---
+
+Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou trocar uma ideia!  
+Vamos crescer juntos nessa jornada tech! 🚀✨
+
 
 
