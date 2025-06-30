@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="180" align="right" />
 
-# ✨ Oiê! Seja muito bem-vindo(a) ao meu GitHub 💻🌸
+# Oii! Seja muito bem-vindo(a) ao meu GitHub 💻
 
 Me chamo **Eduarda**, tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**.  
 Sou apaixonada por tecnologia e estou construindo minha trajetória na área de **Desenvolvimento Web**, com muito estudo, prática e vontade de crescer! 🚀
@@ -23,8 +23,13 @@ Sou apaixonada por tecnologia e estou construindo minha trajetória na área de 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardavicini" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <em>Conecto com pessoas, ideias e oportunidades.<br>
+  Vamos crescer juntos nessa jornada tech! ✨</em>
 </p>
 
 ---
@@ -35,14 +40,6 @@ Sou apaixonada por tecnologia e estou construindo minha trajetória na área de 
   <img src="https://komarev.com/ghpvc/?username=eduardavicini&style=for-the-badge&color=FF69B4" alt="profile views" />
 </p>
 
----
-
-### 💬 Sobre mim
-
-- 🎓 Estudante de ADS pela PUC-PR  
-- 💼 Buscando oportunidades como Dev Web  
-- 🌱 Atualmente aprendendo mais sobre **React.js** e **APIs**  
-- ✨ Acredito que com dedicação e carinho a gente chega longe!  
 
 ---
 
