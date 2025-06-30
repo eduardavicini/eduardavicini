@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="250" />
 </p>
 
-# Oii, eu sou a Eduarda! ✨ 
+# Olá, eu sou a **Eduarda** 🌸💻
 
 **Estudante de Análise e Desenvolvimento de Sistemas na PUC-PR**, focada em **Desenvolvimento Web**.  
 Apaixonada por tecnologia, estou sempre aprendendo e aprimorando minhas habilidades para crescer na área.
@@ -30,9 +30,24 @@ Apaixonada por tecnologia, estou sempre aprendendo e aprimorando minhas habilida
   </a>
 </p>
 
-<p align="center"><em>Aberta a oportunidades e conexões inspiradoras 💖</em></p>
+---
+
+<p align="center" style="font-style: italic; font-size: large; color: #FF69B4;">
+  “A persistência transforma obstáculos em degraus.”
+</p>
 
 ---
+
+## 📊 Estatísticas de contribuições
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardavicini&style=flat-square&color=FF69B4" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardavicini&show_icons=true&theme=react" alt="GitHub Stats">
+</p>
+
 
 ## 📊 Estatísticas de contribuições
 
