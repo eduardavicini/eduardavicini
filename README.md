@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/18/26/61/1826616db563a7e25fd679b5182d5cd7.gif" width="200" align="right" />
 
-# Oi, seja bem-vindo(a) ao meu GitHub! 💻🌸
+# Oi, seja bem-vindo(a) ao meu GitHub! 💻
 
 Me chamo **Eduarda**, tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC-PR**.  
 Sou apaixonada por tecnologia e estou construindo minha trajetória na área de **Desenvolvimento Web**, sempre buscando aprender, praticar e evoluir.
