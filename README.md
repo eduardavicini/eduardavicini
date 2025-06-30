@@ -25,8 +25,15 @@ Sou apaixonada por tecnologia e estou construindo minha trajetória na área de 
 
 ---
 
+## 👀 Visitantes no perfil
+
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=eduardavicini&style=flat-square&color=ff69b4)
+
+---
+
 Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou trocar uma ideia!  
 Vamos crescer juntos nessa jornada tech! 🚀✨
+
 
 
 
