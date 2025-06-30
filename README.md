@@ -1,7 +1,14 @@
 # 🔗 Oiii eu sou a Eduarda Vicini, apaixonada por tecnologia e desenvolvimento web!
 
-Me chamo Eduarda, tenho 25 anos e estudo **Análise e Desenvolvimento de Sistemas na PUC-PR**.  
-Aqui você vai encontrar projetos, estudos e muito código! 💖
+Estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**, apaixonada por tecnologia, aprendizado contínuo e tudo que envolve desenvolvimento de software.
+
+Aqui você vai encontrar:
+
+- Estudos e anotações da minha jornada na área tech  
+- Projetos práticos em constante evolução  
+- Muito código, testes, aprendizados (e alguns erros também!)
+
+Sinta-se à vontade para explorar, dar feedback ou se conectar! 🚀  
 
 ---
 
