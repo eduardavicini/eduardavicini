@@ -2,13 +2,17 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**, apaixonada por tecnologia, aprendizado contínuo e tudo que envolve desenvolvimento de software.
 
-Aqui você vai encontrar:
+### Aqui você vai encontrar:
 
 - Estudos e anotações da minha jornada na área tech  
 - Projetos práticos em constante evolução  
 - Muito código, testes, aprendizados (e alguns erros também!)
 
-Sinta-se à vontade para explorar, dar feedback ou se conectar! 🚀  
+### Projetos em destaque
+
+- 🧠 [Leo | Chefbot](https://github.com/eduardavicini/leo-chefbot) – Chatbot de receitas com Flask
+- 🌐 [Landing Page Responsiva](https://github.com/eduardavicini/landing-page) – Projeto com HTML/CSS
+- 💼 [Site com TypeScript](https://github.com/eduardavicini/site-profissional-typescript) – Site profissional com HTML/CSS/TS 
 
 ---
 
